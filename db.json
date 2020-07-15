@@ -1,0 +1,38 @@
+{
+  "nav": {
+    "v1": {
+     "links": [
+        { "href": "/", "text": "Home" },
+        { "href": "/shop/bike", "text": "Bike" },
+        { "href": "", "text": "About" },
+        { "href": "/shop/tread", "text": "Tread" },
+        { "href": "/app", "text": "App" },
+        { "href": "/cart", "text": "Cart" },
+        { "href": "/cart", "text": "Cart" },
+        { "href": "/tos", "text": "Terms" },
+      ]
+    },
+    "v2": {
+     "links": [
+        { "link": "/", "name": "Home" },
+        { "link": "/delviery", "name": "Delivery Options" },
+        { "link": "/account", "name": "My Account" },
+        { "link": "/classes", "name": "App" },
+      ]
+    },
+    "v3": {
+     "links": [
+        { "href": "/", "text": "Home" },
+        { "href": "/shop/bike", "text": "<strong>Bike</strong>" },
+        { "href": "", "text": "About" },
+        { "href": "/shop/tread", "text": "<strong>Tread</strong>" },
+        { "href": "/app", "text": "App" },
+        { "href": "/cart", "text": "Cart" },
+        { "href": "", "text": "" },
+        { "href": "", "text": "Global" },
+        { "href": "/cart", "text": "Cart" },
+        { "href": "/tos", "text": "" },
+      ]
+    }
+  }
+}
